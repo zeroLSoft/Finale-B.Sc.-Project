@@ -1,0 +1,9 @@
+Pillow~=8.4.0
+pip~=9.0.3
+Keras~=2.2.2
+numpy~=1.19.5
+h5py~=2.10.0
+scipy~=1.5.4
+tensorflow~=1.10.0
+matplotlib~=3.3.4
+nltk~=3.6.7
